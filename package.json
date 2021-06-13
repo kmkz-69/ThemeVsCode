@@ -1,0 +1,22 @@
+{
+    "name": "viiper",
+    "displayName": "viipers",
+    "description": "viipers colour theme to satisfy your neon dreams",
+    "author": "Jason Michel",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "viipers",
+                "uiTheme": "vs-dark",
+                "path": "./themes/viipers-color-theme.json"
+            }
+        ]
+    }
+}
